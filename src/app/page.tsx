@@ -10,7 +10,6 @@ import MetricCardOne from '@/components/sections/metrics/MetricCardOne';
 import NavbarStyleCentered from '@/components/navbar/NavbarStyleCentered/NavbarStyleCentered';
 import ProductCardThree from '@/components/sections/product/ProductCardThree';
 import SocialProofOne from '@/components/sections/socialProof/SocialProofOne';
-import TestimonialCardOne from '@/components/sections/testimonial/TestimonialCardOne';
 import TextSplitAbout from '@/components/sections/about/TextSplitAbout';
 import { Clock, Droplet, Globe, ShieldCheck, Timer, Truck } from "lucide-react";
 
@@ -127,24 +126,6 @@ export default function LandingPage() {
       ]}
       title="The Sai Vivek Advantage"
       description="Why global luxury brands trust our export processes."
-    />
-  </div>
-
-  <div id="testimonials" data-section="testimonials">
-      <TestimonialCardOne
-      animationType="slide-up"
-      textboxLayout="split"
-      gridVariant="asymmetric-60-wide-40-narrow"
-      useInvertedBackground={false}
-      testimonials={[
-        { id: "t1", name: "Pierre Dubois", role: "CEO", company: "Dubois Fragrance", rating: 5, imageSrc: "https://img.b2bpic.net/free-photo/portrait-sexy-handsome-fashion-male-model-man-dressed-elegant-suit-black-studio-lights-background_158538-9539.jpg" },
-        { id: "t2", name: "Yuki Tanaka", role: "Sourcing Director", company: "Tokyo Cosmetics", rating: 5, imageSrc: "https://img.b2bpic.net/free-photo/side-view-mature-woman-working-greenhouse_171337-5851.jpg" },
-        { id: "t3", name: "Ahmed Al-Mansoori", role: "Lead Buyer", company: "Oud Emirates", rating: 5, imageSrc: "https://img.b2bpic.net/free-photo/small-business-manager-his-workshop_23-2149094573.jpg" },
-        { id: "t4", name: "Elena Rossi", role: "Head Chemist", company: "Pure Scents", rating: 5, imageSrc: "https://img.b2bpic.net/free-photo/women-shopping-buying-consumer-products-customer-day-celebration_23-2151623386.jpg" },
-        { id: "t5", name: "Marcus Weber", role: "Principal Trader", company: "Global Incense", rating: 5, imageSrc: "https://img.b2bpic.net/free-photo/artisan-doing-woodcutting_23-2150600782.jpg" }
-      ]}
-      title="Global Trusted Quality"
-      description="Our work speaks through the premium brands we supply worldwide."
     />
   </div>
 
