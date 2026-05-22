@@ -55,7 +55,7 @@ export default function LandingPage() {
         { name: "Marcus Weber", handle: "@luxury_incense", testimonial: "Truly aged woods. The scent profile of their sandalwood is exactly what our premium range demands.", rating: 5, imageSrc: "https://img.b2bpic.net/free-photo/male-fashion-designer-taking-fabric-from-shelf-his-customer_23-2148180328.jpg" }
       ]}
       buttons={[{ text: "Request Premium Export Quote", href: "#contact" }]}
-      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E5S10OoXC9Oqd8yU2CknjqVnJu/uploaded-1779466794456-niermvkz.jpg"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E5S10OoXC9Oqd8yU2CknjqVnJu/uploaded-1779466794456-niermvkz.jpg?_wi=1"
       mediaAnimation="slide-up"
       avatars={[
         { src: "https://img.b2bpic.net/free-photo/cheerful-attractive-businesswoman-crossing-arms_1262-4724.jpg", alt: "User avatar" },
@@ -85,11 +85,11 @@ export default function LandingPage() {
       gridVariant="three-columns-all-equal-width"
       useInvertedBackground={false}
       products={[
-        { id: "p1", name: "Red Sandalwood (A-Grade)", price: "Contact for B2B Pricing", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E5S10OoXC9Oqd8yU2CknjqVnJu/uploaded-1779466794456-i4aeix35.jpg" },
+        { id: "p1", name: "Red Sandalwood (A-Grade)", price: "Contact for B2B Pricing", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E5S10OoXC9Oqd8yU2CknjqVnJu/uploaded-1779466794456-i4aeix35.jpg?_wi=1" },
         { id: "p2", name: "White Sandalwood (Aged)", price: "Contact for B2B Pricing", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E5S10OoXC9Oqd8yU2CknjqVnJu/uploaded-1779466794456-4eg3unc8.jpg" },
-        { id: "p3", name: "Premium Agarwood Chips", price: "Contact for B2B Pricing", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E5S10OoXC9Oqd8yU2CknjqVnJu/uploaded-1779466794456-27wh3vvu.jpg" },
-        { id: "p4", name: "Sandalwood Oil (Distilled)", price: "Contact for B2B Pricing", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E5S10OoXC9Oqd8yU2CknjqVnJu/uploaded-1779466794456-n9xdd2j2.jpg" },
-        { id: "p5", name: "Agarwood Oud Wood", price: "Contact for B2B Pricing", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E5S10OoXC9Oqd8yU2CknjqVnJu/uploaded-1779466794456-niermvkz.jpg" },
+        { id: "p3", name: "Premium Agarwood Chips", price: "Contact for B2B Pricing", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E5S10OoXC9Oqd8yU2CknjqVnJu/uploaded-1779466794456-27wh3vvu.jpg?_wi=1" },
+        { id: "p4", name: "Sandalwood Oil (Distilled)", price: "Contact for B2B Pricing", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E5S10OoXC9Oqd8yU2CknjqVnJu/uploaded-1779466794456-n9xdd2j2.jpg?_wi=1" },
+        { id: "p5", name: "Agarwood Oud Wood", price: "Contact for B2B Pricing", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E5S10OoXC9Oqd8yU2CknjqVnJu/uploaded-1779466794456-niermvkz.jpg?_wi=2" },
         { id: "p6", name: "Incense Grade Chips", price: "Contact for B2B Pricing", imageSrc: "https://img.b2bpic.net/free-photo/close-up-perfume-floating-water_23-2150963110.jpg" }
       ]}
       title="Premium Export Offerings"
@@ -106,15 +106,15 @@ export default function LandingPage() {
         {
           title: "Government Sourced",          description: "Strict adherence to government regulations ensures total authenticity.",          icon: ShieldCheck,
           mediaItems: [
-            { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E5S10OoXC9Oqd8yU2CknjqVnJu/uploaded-1779466794456-niermvkz.jpg" },
-            { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E5S10OoXC9Oqd8yU2CknjqVnJu/uploaded-1779466794456-i4aeix35.jpg" }
+            { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E5S10OoXC9Oqd8yU2CknjqVnJu/uploaded-1779466794456-niermvkz.jpg?_wi=3" },
+            { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E5S10OoXC9Oqd8yU2CknjqVnJu/uploaded-1779466794456-i4aeix35.jpg?_wi=2" }
           ]
         },
         {
           title: "Aged Quality",          description: "45-60 years of natural aging for superior scent and oil profiles.",          icon: Clock,
           mediaItems: [
-            { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E5S10OoXC9Oqd8yU2CknjqVnJu/uploaded-1779466794456-27wh3vvu.jpg" },
-            { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E5S10OoXC9Oqd8yU2CknjqVnJu/uploaded-1779466794456-n9xdd2j2.jpg" }
+            { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E5S10OoXC9Oqd8yU2CknjqVnJu/uploaded-1779466794456-27wh3vvu.jpg?_wi=2" },
+            { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E5S10OoXC9Oqd8yU2CknjqVnJu/uploaded-1779466794456-n9xdd2j2.jpg?_wi=2" }
           ]
         },
         {
