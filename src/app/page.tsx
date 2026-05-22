@@ -107,7 +107,7 @@ export default function LandingPage() {
           href: "#contact",
         },
       ]}
-      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E5S10OoXC9Oqd8yU2CknjqVnJu/uploaded-1779466794456-niermvkz.jpg"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E5S10OoXC9Oqd8yU2CknjqVnJu/uploaded-1779466794456-niermvkz.jpg?_wi=1"
       mediaAnimation="slide-up"
       avatars={[
         {
@@ -180,37 +180,37 @@ export default function LandingPage() {
           id: "p1",
           name: "Red Sandalwood (A-Grade)",
           price: "Contact for B2B Pricing",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E5S10OoXC9Oqd8yU2CknjqVnJu/uploaded-1779466794456-i4aeix35.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E5S10OoXC9Oqd8yU2CknjqVnJu/uploaded-1779466794456-i4aeix35.jpg?_wi=1",
         },
         {
           id: "p2",
           name: "White Sandalwood (Aged)",
           price: "Contact for B2B Pricing",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E5S10OoXC9Oqd8yU2CknjqVnJu/uploaded-1779466794456-4eg3unc8.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E5S10OoXC9Oqd8yU2CknjqVnJu/uploaded-1779466794456-4eg3unc8.jpg?_wi=1",
         },
         {
           id: "p3",
           name: "Premium Agarwood Chips",
           price: "Contact for B2B Pricing",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E5S10OoXC9Oqd8yU2CknjqVnJu/uploaded-1779466794456-27wh3vvu.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E5S10OoXC9Oqd8yU2CknjqVnJu/uploaded-1779466794456-27wh3vvu.jpg?_wi=1",
         },
         {
           id: "p4",
           name: "Sandalwood Oil (Distilled)",
           price: "Contact for B2B Pricing",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E5S10OoXC9Oqd8yU2CknjqVnJu/uploaded-1779466794456-n9xdd2j2.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E5S10OoXC9Oqd8yU2CknjqVnJu/uploaded-1779466794456-n9xdd2j2.jpg?_wi=1",
         },
         {
           id: "p5",
           name: "Agarwood Oud Wood",
           price: "Contact for B2B Pricing",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E5S10OoXC9Oqd8yU2CknjqVnJu/uploaded-1779466794456-niermvkz.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E5S10OoXC9Oqd8yU2CknjqVnJu/uploaded-1779466794456-niermvkz.jpg?_wi=2",
         },
         {
           id: "p6",
           name: "Incense Grade Chips",
           price: "Contact for B2B Pricing",
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-perfume-floating-water_23-2150963110.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-perfume-floating-water_23-2150963110.jpg?_wi=1",
         },
       ]}
       title="Premium Export Offerings"
@@ -230,13 +230,13 @@ export default function LandingPage() {
           icon: ShieldCheck,
           mediaItems: [
             {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E5S10OoXC9Oqd8yU2CknjqVnJu/uploaded-1779466794456-niermvkz.jpg",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E5S10OoXC9Oqd8yU2CknjqVnJu/uploaded-1779466794456-niermvkz.jpg?_wi=3",
             },
             {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E5S10OoXC9Oqd8yU2CknjqVnJu/uploaded-1779466794456-i4aeix35.jpg",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E5S10OoXC9Oqd8yU2CknjqVnJu/uploaded-1779466794456-i4aeix35.jpg?_wi=2",
             },
           ],
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E5S10OoXC9Oqd8yU2CknjqVnJu/uploaded-1779466794456-4eg3unc8.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E5S10OoXC9Oqd8yU2CknjqVnJu/uploaded-1779466794456-4eg3unc8.jpg?_wi=2",
           imageAlt: "User provided image",
         },
         {
@@ -245,13 +245,13 @@ export default function LandingPage() {
           icon: Clock,
           mediaItems: [
             {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E5S10OoXC9Oqd8yU2CknjqVnJu/uploaded-1779466794456-27wh3vvu.jpg",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E5S10OoXC9Oqd8yU2CknjqVnJu/uploaded-1779466794456-27wh3vvu.jpg?_wi=2",
             },
             {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E5S10OoXC9Oqd8yU2CknjqVnJu/uploaded-1779466794456-n9xdd2j2.jpg",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E5S10OoXC9Oqd8yU2CknjqVnJu/uploaded-1779466794456-n9xdd2j2.jpg?_wi=2",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-perfume-floating-water_23-2150963110.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-perfume-floating-water_23-2150963110.jpg?_wi=2",
           imageAlt: "User provided image",
         },
         {
